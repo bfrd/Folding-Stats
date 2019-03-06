@@ -33,10 +33,10 @@ Installation:
 	
 		Please create the following templates:
 		
-			#Name												#Source
-			fah_DisplayGrid 						fah_DisplayGrid.php
-			fah_memberlist 							fah_memberlist.php
-			fah_memberlist_bit 					fah_memberlist_bit.php
+			#Name									#Source
+			fah_DisplayGrid 			fah_DisplayGrid.php
+			fah_memberlist 				fah_memberlist.php
+			fah_memberlist_bit 		fah_memberlist_bit.php
 	
 	
 	Update and Display Code:

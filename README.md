@@ -41,4 +41,10 @@ Installation:
 	
 	Update and Display Code:
 	
-		Copy the fah.update.php and fah.display.php to the forum's root directory
+		Copy the fah.update.php and fah.display.php to the forum's root directory.
+		
+	Scheduled Task:
+	
+		Create a scheduled task to run once at 1:00 AM.  Point this task to the fah.update.php page.  
+		
+		** This file does not log any scheduled task information.
